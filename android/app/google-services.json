@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "108341892913",
+    "firebase_url": "https://loginnewver2.firebaseio.com",
+    "project_id": "loginnewver2",
+    "storage_bucket": "loginnewver2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108341892913:android:3b2eaa41ca23ff973cc210",
+        "android_client_info": {
+          "package_name": "com.example.loginnewver2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108341892913-6lvtesv0ql057jm1i6uba9g5i01iso48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpIHIwuBuwRVt1vQmwB_vWA9UJfb4a-Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108341892913-6lvtesv0ql057jm1i6uba9g5i01iso48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
